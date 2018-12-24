@@ -10,6 +10,8 @@ In this realated notebook **Neural_Network_from_scratch_with_Numpy.ipynb** we wi
 
 # Example: Noisy Moons 
 
+## Decision boundary (you'll get to this graph animated during training)
 ![Decision boundary](https://github.com/ahmedbesbes/Neural-Network-from-scratch/blob/master/images/decision_boundary.png)
 
-![Loss/Accuracy monitoring on train/val](https://github.com/ahmedbesbes/Neural-Network-from-scratch/blob/master/images/loss.png)
+## Loss and accuracy monitoring on train and validation sets 
+![Loss/Accuracy monitoring on train/val](https://github.com/ahmedbesbes/Neural-Network-from-scratch/blob/master/images/loss_acc.png)
