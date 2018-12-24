@@ -12,3 +12,6 @@ In this realated notebook **Neural_Network_from_scratch_with_Numpy.ipynb** we wi
 
 ![Decision boundary](https://github.com/ahmedbesbes/Neural-Network-from-scratch/blob/master/images/decision_boundary.png)
 
+![Loss monitoring on train/val](https://github.com/ahmedbesbes/Neural-Network-from-scratch/blob/master/images/loss.png)
+![Accuracy monitoring on train/val](https://github.com/ahmedbesbes/Neural-Network-from-scratch/blob/master/images/accuracy.png)
+
