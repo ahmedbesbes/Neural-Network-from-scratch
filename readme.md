@@ -18,9 +18,8 @@ In the related notebook **Neural_Network_from_scratch_with_Numpy.ipynb** we will
 
 
 ## Where to go from here?
-There's room for a lot of improvement. Here are some guidelines if you want to learn more:
+nn.py is a toy neural network that is meant for educational purposes only. So there's room for a lot of improvement if you want to pimp it. Here are some guidelines:
 
-- Go through the code in nn.py: understand each block. Most importantly, try to reproduce everything from scratch: it's the only way to check if you understood things well.
 - Implement a different loss function such as the Binary Cross Entropy loss. For a classification problem, this loss works better than a Mean Square Error. 
 - Make the code generic regarding the activation functions so that we can choose any function we want: ReLU, Sigmoid, Tanh, etc.
 - Try to code another optimizers: SGD is good but it has some limitations: sometimes it can be stuck in local minima. Look into Adam or RMSProp.
