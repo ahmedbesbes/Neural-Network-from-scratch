@@ -1,8 +1,7 @@
 
 ## Learn backpropagtion the **hard** way
 
-
-
+![Backpropagation](https://github.com/ahmedbesbes/Neural-Network-from-scratch/blob/master/images/backprop.gif)
 
 In this repository, I will show you how to build a neural network from scratch (yes, by using plain python code with no framework involved) that trains by mini-batches using gradient descent. Check **nn.py** for the code.
 
