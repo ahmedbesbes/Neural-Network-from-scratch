@@ -8,10 +8,21 @@ In the related notebook **Neural_Network_from_scratch_with_Numpy.ipynb** we will
 - Plot the train and validation metrics such as the loss and the accuracies
 
 
-# Example: Noisy Moons (Check the notebook for other kinds of problems)
+## Example: Noisy Moons (Check the notebook for other kinds of problems)
 
-## Decision boundary (you'll get to this graph animated during training)
+### Decision boundary (you'll get to this graph animated during training)
 ![Decision boundary](https://github.com/ahmedbesbes/Neural-Network-from-scratch/blob/master/images/decision_boundary.png)
 
-## Loss and accuracy monitoring on train and validation sets 
+### Loss and accuracy monitoring on train and validation sets 
 ![Loss/Accuracy monitoring on train/val](https://github.com/ahmedbesbes/Neural-Network-from-scratch/blob/master/images/loss_acc.png)
+
+
+## Where to go from here?
+There's room for a lot of improvement. Here are some guidelines if you want to learn more:
+
+- Go through the code in nn.py: understand each block. Most importantly, try to reproduce everything from scratch: it's the only way to check if you understood things well.
+- Implement a different loss function such as the Binary Cross Entropy loss. For a classification problem, this loss works better than a Mean Square Error. 
+- Make the code generic regarding the activation functions so that we can choose any function we want: ReLU, Sigmoid, Tanh, etc.
+- Try to code another optimizers: SGD is good but it has some limitations: sometimes it can be stuck in local minima. Look into Adam or RMSProp.
+- Play with the hyperparameters and check the validation metrics
+
