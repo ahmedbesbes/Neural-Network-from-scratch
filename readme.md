@@ -1,4 +1,9 @@
 
+## Learn backpropagtion the **hard** way
+
+
+
+
 In this repository, I will show you how to build a neural network from scratch (yes, by using plain python code with no framework involved) that trains by mini-batches using gradient descent. Check **nn.py** for the code.
 
 In the related notebook **Neural_Network_from_scratch_with_Numpy.ipynb** we will test nn.py on a set of non-linear classification problems
