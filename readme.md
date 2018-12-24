@@ -7,3 +7,8 @@ In this realated notebook **Neural_Network_from_scratch_with_Numpy.ipynb** we wi
 - Plot a live/interactive decision boundary 
 - Plot the train and validation metrics such as the loss and the accuracies
 
+
+# Example: Noisy Moons 
+
+![Decision boundary]()
+
